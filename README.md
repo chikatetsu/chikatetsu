@@ -6,10 +6,11 @@ Hello, welcome to my git! I am a french software engineer and currently in my th
 
 | Programming languages | Web development | Databases |
 | --------------------- | --------------- | --------- |
-| C                     | HTML/CSS        | SQL       |
-| C++ (beginner)        | JavaScript      |           |
-| Java                  | Node.js         |           |
-| Python                | PHP             |           |
+| Python                | Typescript      | SQL       |
+| Java                  | JavaScript      | PosgreSQL |
+| C#                    | NodeJs          | MongoDB   |
+| C                     | HTML/CSS        |           |
+| C++ (beginner)        | PHP             |           |
 
 
 ## Projects
@@ -28,6 +29,8 @@ Hello, welcome to my git! I am a french software engineer and currently in my th
 
 ## Experience
 
+- C# Developer Internship at Fingermind, Paris (since 27/02/23)
+  - Creating an AI model using ML.NET in C# on a standardized and normalized SQLite databases
 - Web Developer Intern (Back-end), Ferme de Beaumont Valpuiseaux (03/01/22 - 11/02/22)
   - Developed the back-end of an online ordering website using PHP, SQL, and JavaScript
 - Web Developer Intern (Full-stack), Café de L’Espérance Étampes (25/05/21 - 26/06/21)
