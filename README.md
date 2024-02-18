@@ -4,14 +4,13 @@ Hello, welcome to my git! I am a french software engineer and currently in my fo
 
 ## Skills
 
-| Programming languages | Web development | Databases |
+| Programming languages |                 | Databases |
 | --------------------- | --------------- | --------- |
-| Python                | Typescript      | SQL       |
-| Java                  | JavaScript      | PosgreSQL |
-| C#                    | NodeJs          | MongoDB   |
-| Rust                  | HTML/CSS        |           |
+| Python                | Java            | SQL       | 
+| JavaScript            | Typescript      | PosgreSQL |
+| NodeJs                | C#              | MongoDB   |
+| Rust                  | Kotlin          |           |
 | C                     | PHP             |           |
-| Kotlin                |                 |           |
 | C++ (beginner)        |                 |           |
 
 
