@@ -1,6 +1,6 @@
 # Ronan Kielt
 
-Hello, welcome to my git! I am a french software engineer and currently in my third year studying Software Architecture at ESGI.
+Hello, welcome to my git! I am a french software engineer and currently in my fourth year studying Software Architecture at ESGI.
 
 ## Skills
 
@@ -9,8 +9,10 @@ Hello, welcome to my git! I am a french software engineer and currently in my th
 | Python                | Typescript      | SQL       |
 | Java                  | JavaScript      | PosgreSQL |
 | C#                    | NodeJs          | MongoDB   |
-| C                     | HTML/CSS        |           |
-| C++ (beginner)        | PHP             |           |
+| Rust                  | HTML/CSS        |           |
+| C                     | PHP             |           |
+| Kotlin                |                 |           |
+| C++ (beginner)        |                 |           |
 
 
 ## Projects
